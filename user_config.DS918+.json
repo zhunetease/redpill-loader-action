@@ -1,13 +1,18 @@
 {
   "extra_cmdline": {
-    "vid": "0x46f4",
-    "pid": "0x0001",
+    "vid": "0x0951",
+    "pid": "0x1666",
+    "netif_num":"1",
     "sn": "17A0PDN123456",
     "mac1": "001132123456"
   },
   "synoinfo": {
+    "maxdisks" : "16",
+    "internalportcfg" : "0xf006",
+    "esataportcfg" : "0x0ff9"
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
   },
-  "ramdisk_copy": {}
+  "ramdisk_copy": {},
+    "extensions": []
 }
