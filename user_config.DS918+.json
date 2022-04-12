@@ -13,6 +13,5 @@
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
   },
-  "ramdisk_copy": {},
-    "extensions": []
+  "ramdisk_copy": {}
 }
